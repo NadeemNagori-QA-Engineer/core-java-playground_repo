@@ -1,4 +1,4 @@
-package com.phase2.ifelse.practice;
+package com.phase2_ifelse_practice;
 
 import java.time.LocalDate;
 import java.time.Period;
